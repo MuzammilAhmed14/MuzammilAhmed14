@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuzammilAhmed14
+- 👋 Hi, I’m @Muzammil Ahmed
 - 👀 I’m interested in leveraging data analytics to derive meaningful insights and contribute to innovative projects in the tech industry.
 - 🌱 I’m currently learning advanced techniques in machine learning and deepening my expertise in data visualization tools like Power Bi and Tableau
 - 💞️  I’m looking to collaborate on open-source projects related to data science and analytics, where I can apply and enhance my skills while contributing to a larger community.
